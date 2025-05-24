@@ -24,7 +24,7 @@ Bot chat interaktif untuk berkomunikasi dengan agent di platform Nation.fun meng
    screen -S crestal
    ```
 
-2. Buat file auto_messages.txt
+2. Edit/Tambahkan chat file auto_messages.txt
    ```bash
    nano auto_messages.txt
    ```
